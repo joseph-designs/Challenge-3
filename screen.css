@@ -30,6 +30,7 @@ ul {
     background-color: #B5B5B5;
     margin: 20px;
     width: min-content;
+    border-radius: 14px;
 
 
 }
@@ -47,6 +48,7 @@ img {
   width: 190px;
   height: 190px;
   padding: 20px;
+  border-radius: 20px;
  
 
 }
