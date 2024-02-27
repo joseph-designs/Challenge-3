@@ -1,1 +1,32 @@
 /* Add screen styles below */
+
+
+h1 {
+    font-size: 64px;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 28px;
+}
+p {
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.Project-Card{
+
+}
+
+.Right-Text{
+  
+}
+
+img { 
+  width:190px;
+  display: table-cell;
+}
