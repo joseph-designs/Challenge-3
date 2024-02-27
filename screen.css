@@ -29,7 +29,7 @@ ul {
     flex-direction: row;
     background-color: #B5B5B5;
     margin: 20px;
-    width: 100%;
+    width: min-content;
 
 
 }
@@ -38,7 +38,7 @@ ul {
     padding: 20px;
     margin: 0px;
     text-align: left;
-    width: 50%;
+    width: max-content;
 
 
 }
