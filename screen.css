@@ -3,6 +3,8 @@
 
 :root {
     --active-text-color: #3dc026;
+    --error-text-color: #c02626;
+    --not-luanched-color: #515151;
     --font-family: "Inter", sans-serif;
 }
 
@@ -31,7 +33,15 @@ p {
 .Active { 
     color: var(--active-text-color);
     font-weight: bold;
-    
+}
+
+.Error { 
+    color: var(--error-text-color);
+    font-weight: bold;
+}
+.Not-luanched {
+    color: var(--not-luanched-color);
+    font-weight: bold;
 }
 
 ul {
