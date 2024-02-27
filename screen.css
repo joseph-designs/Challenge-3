@@ -32,13 +32,15 @@ p {
 }
 
 ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     list-style-type: none;
 }
 
 .Project-Card{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     background-color: #B5B5B5;
     margin: 20px;
     width: min-content;
