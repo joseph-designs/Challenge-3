@@ -24,7 +24,7 @@ h3 {
 p {
     font-size: 16px;
     margin: 0;
-    max-width: 220;
+    max-width: 220px;
     overflow: auto;
 }
 
@@ -48,7 +48,6 @@ ul {
     margin: 20px;
     width: min-content;
     border-radius: 14px;
-    max-width: ;
 
 
 }
