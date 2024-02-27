@@ -19,11 +19,14 @@ ul {
 }
 
 .Project-Card{
+    display: flex;
+    flex-direction: row;
 
 }
 
 .Right-Text{
-  
+    text-align: right;
+    
 }
 
 img { 
