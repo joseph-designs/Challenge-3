@@ -28,6 +28,7 @@ ul {
 }
 
 .Right-Text{
+    padding: 20px;
     text-align: left;
 
 
@@ -35,5 +36,6 @@ ul {
 
 img { 
   width:190px;
-  display: table-cell;
+  height: 190px;
+
 }
