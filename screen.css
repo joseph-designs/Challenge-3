@@ -21,11 +21,15 @@ ul {
 .Project-Card{
     display: flex;
     flex-direction: row;
+    background-color: #B5B5B5;
+    margin: 20px;
+
 
 }
 
 .Right-Text{
     text-align: left;
+
 
 }
 
