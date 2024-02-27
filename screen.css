@@ -33,6 +33,7 @@ ul {
     padding: 20px;
     margin: 0px;
     text-align: left;
+    width: 50%;
 
 
 }
@@ -41,5 +42,6 @@ img {
   width:190px;
   height: 190px;
   padding: 20px;
+  width: 50%;
 
 }
