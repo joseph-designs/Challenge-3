@@ -41,7 +41,7 @@ p {
     color: var(--error-text-color);
     font-weight: bold;
 }
-.Not-luanched {
+.Not-launched {
     color: var(--not-luanched-color);
     font-weight: bold;
 }
