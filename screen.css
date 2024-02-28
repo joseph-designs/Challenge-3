@@ -24,7 +24,7 @@ body {
 h1 {
     font-size: 64px;
     color: var(--text-on-background);
-    margin: 20px 0px 0px 40px;
+    margin: 20px 0px 0px 60px;
     
 }
 h2 {
@@ -41,20 +41,24 @@ p {
     margin: 0;
     max-width: 220px;
     overflow: auto;
+    margin-bottom: 4px;
 }
 
 .Active { 
     color: var(--active-text-color);
     font-weight: bold;
+    margin: 4px 0px;
 }
 
 .Error { 
     color: var(--error-text-color);
     font-weight: bold;
+    margin: 4px 0px;
 }
 .Not-launched {
     color: var(--not-luanched-color);
     font-weight: bold;
+    margin: 4px 0px;
 }
 
 ul {
