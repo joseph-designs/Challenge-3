@@ -8,6 +8,9 @@
     --font-family: "Inter", sans-serif;
     --text-on-background: #f1f1f1;
 }
+.Heading {
+    background-color: #1e1e1e;
+}
 
 body {
     font-family: var(--font-family);
