@@ -6,6 +6,7 @@
     --error-text-color: #c02626;
     --not-luanched-color: #515151;
     --font-family: "Inter", sans-serif;
+    --text-on-background: #f1f1f1;
 }
 
 body {
@@ -18,6 +19,7 @@ h1 {
 }
 h2 {
     font-size: 40px;
+    color: var(--text-on-background);
 }
 h3 {
     font-size: 24px;
