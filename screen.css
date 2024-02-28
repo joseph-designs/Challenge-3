@@ -10,6 +10,8 @@
 }
 .Heading {
     background-color: #6A6A6A;
+    padding: 1px 20px 10px 0px;
+
 }
 
 body {
@@ -20,6 +22,7 @@ body {
 h1 {
     font-size: 64px;
     color: var(--text-on-background);
+    margin: 20px 0px 0px 40px;
     
 }
 h2 {
