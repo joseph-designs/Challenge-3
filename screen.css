@@ -17,6 +17,7 @@
 body {
     font-family: var(--font-family);
     background-color: #1E1E1E;
+    margin: 0px;
 }
 
 h1 {
