@@ -77,4 +77,6 @@ img {
   height: 190px;
   padding: 20px;
   border-radius: 20px;
+  overflow:hidden;
+  box-sizing: border-box;
 }
