@@ -25,7 +25,7 @@ h1 {
 h2 {
     font-size: 40px;
     color: var(--text-on-background);
-    margin: 40px 40px 40px 40px;
+    margin: 0px 40px 0px 40px;
 }
 h3 {
     font-size: 24px;
